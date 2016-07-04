@@ -1,0 +1,30 @@
+svg {
+    border: 1px solid grey;
+}
+
+line {
+    stroke: steelblue;
+    stroke-width: 2px;
+    stroke-linecap: round;
+}
+
+rect{
+
+	fill: none;
+	stroke: steelblue;
+	stroke-width: 2px;
+
+}
+
+path{
+
+	stroke-color: black;
+}
+
+ellipse{
+
+
+	fill:none;
+	stroke: steelblue;
+	stroke-width:2px;
+}
